@@ -1,3 +1,22 @@
+# APPROACH
+
+-> This application displays list of products , while it fetches data from the API.
+-> Arranged every part of Application in component wise structure and assembled them individually.
+-> Used React Hooks multiple times for state management and effects.
+-> Bootstrap classes for styling of components.
+-> Supports pagination and other filters as well
+-> It also has admin functionality (although while retreiving editing is kept off for items)
+
+# Tech Stack
+
+-> HTML
+-> CSS
+-> Typescript
+-> ReactJS
+-> Material UI
+-> Context API
+-> Redux
+
 # APP-DEMO SHOTS
 
 ![Alt text](image.png)
@@ -11,6 +30,7 @@
 ![Alt text](image-4.png)
 
 ![Alt text](image-5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
